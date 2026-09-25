@@ -1,0 +1,295 @@
+{
+  "method": "Incidence-weighted geometric unshaded-panel proxy, winter 09:00\u201316:00 every 30 min. Not energy production or electrical loss. Identical planar-panel ray model applied to both layouts.",
+  "evaluated_candidates": 3,
+  "row_gap_m": 0.45,
+  "baseline_winter": {
+    "panels": 90,
+    "kw": 39.6,
+    "weighted_shade_pct": 6.169465569459493,
+    "unshaded_panel_equivalent": 84.44748098748646,
+    "times": [
+      {
+        "hour": 9.0,
+        "shade_pct": 22.805555555555557
+      },
+      {
+        "hour": 9.5,
+        "shade_pct": 19.25
+      },
+      {
+        "hour": 10.0,
+        "shade_pct": 9.61111111111111
+      },
+      {
+        "hour": 10.5,
+        "shade_pct": 6.777777777777779
+      },
+      {
+        "hour": 11.0,
+        "shade_pct": 4.472222222222221
+      },
+      {
+        "hour": 11.5,
+        "shade_pct": 3.861111111111111
+      },
+      {
+        "hour": 12.0,
+        "shade_pct": 2.6944444444444446
+      },
+      {
+        "hour": 12.5,
+        "shade_pct": 2.4722222222222223
+      },
+      {
+        "hour": 13.0,
+        "shade_pct": 2.2222222222222223
+      },
+      {
+        "hour": 13.5,
+        "shade_pct": 1.9444444444444444
+      },
+      {
+        "hour": 14.0,
+        "shade_pct": 1.5833333333333335
+      },
+      {
+        "hour": 14.5,
+        "shade_pct": 1.638888888888889
+      },
+      {
+        "hour": 15.0,
+        "shade_pct": 3.3333333333333335
+      },
+      {
+        "hour": 15.5,
+        "shade_pct": 7.722222222222222
+      },
+      {
+        "hour": 16.0,
+        "shade_pct": 20.27777777777778
+      }
+    ]
+  },
+  "improved_winter": {
+    "panels": 85,
+    "kw": 37.4,
+    "weighted_shade_pct": 3.544264266490517,
+    "unshaded_panel_equivalent": 81.98737537348306,
+    "times": [
+      {
+        "hour": 9.0,
+        "shade_pct": 18.5
+      },
+      {
+        "hour": 9.5,
+        "shade_pct": 14.558823529411766
+      },
+      {
+        "hour": 10.0,
+        "shade_pct": 4.470588235294118
+      },
+      {
+        "hour": 10.5,
+        "shade_pct": 2.823529411764706
+      },
+      {
+        "hour": 11.0,
+        "shade_pct": 1.2058823529411764
+      },
+      {
+        "hour": 11.5,
+        "shade_pct": 1.0294117647058822
+      },
+      {
+        "hour": 12.0,
+        "shade_pct": 0.2647058823529412
+      },
+      {
+        "hour": 12.5,
+        "shade_pct": 0.2058823529411765
+      },
+      {
+        "hour": 13.0,
+        "shade_pct": 0.14705882352941177
+      },
+      {
+        "hour": 13.5,
+        "shade_pct": 0.1176470588235294
+      },
+      {
+        "hour": 14.0,
+        "shade_pct": 0.0588235294117647
+      },
+      {
+        "hour": 14.5,
+        "shade_pct": 0.3823529411764706
+      },
+      {
+        "hour": 15.0,
+        "shade_pct": 2.264705882352941
+      },
+      {
+        "hour": 15.5,
+        "shade_pct": 6.61764705882353
+      },
+      {
+        "hour": 16.0,
+        "shade_pct": 18.735294117647058
+      }
+    ]
+  },
+  "baseline_summer": {
+    "panels": 90,
+    "kw": 39.6,
+    "weighted_shade_pct": 0.25402681471734867,
+    "unshaded_panel_equivalent": 89.77137586675438,
+    "times": [
+      {
+        "hour": 9.0,
+        "shade_pct": 2.888888888888889
+      },
+      {
+        "hour": 9.5,
+        "shade_pct": 1.7222222222222223
+      },
+      {
+        "hour": 10.0,
+        "shade_pct": 0.7777777777777778
+      },
+      {
+        "hour": 10.5,
+        "shade_pct": 0.33333333333333337
+      },
+      {
+        "hour": 11.0,
+        "shade_pct": 0.08333333333333334
+      },
+      {
+        "hour": 11.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 12.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 12.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 13.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 13.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 14.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 14.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 15.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 15.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 16.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 16.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 17.0,
+        "shade_pct": 0.0
+      }
+    ]
+  },
+  "improved_summer": {
+    "panels": 85,
+    "kw": 37.4,
+    "weighted_shade_pct": 0.12646828258721124,
+    "unshaded_panel_equivalent": 84.89250195980087,
+    "times": [
+      {
+        "hour": 9.0,
+        "shade_pct": 2.0294117647058822
+      },
+      {
+        "hour": 9.5,
+        "shade_pct": 0.8823529411764706
+      },
+      {
+        "hour": 10.0,
+        "shade_pct": 0.14705882352941177
+      },
+      {
+        "hour": 10.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 11.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 11.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 12.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 12.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 13.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 13.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 14.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 14.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 15.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 15.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 16.0,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 16.5,
+        "shade_pct": 0.0
+      },
+      {
+        "hour": 17.0,
+        "shade_pct": 0.0
+      }
+    ]
+  },
+  "assumptions": "Same estimated roof/obstacle/neighbour geometry, 7.7 degree north alignment, 10 degree panel tilt, 440W panels, 1m edge, 0.5m obstacle clearance and reserved access strips. No verified access connections, engineering or electrical design.",
+  "selection_reason": "Lower-shade alternative with capacity tradeoff; baseline retains better winter unshaded-panel proxy"
+}

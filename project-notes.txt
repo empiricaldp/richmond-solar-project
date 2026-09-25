@@ -1,0 +1,38 @@
+RICHMOND SOLAR PITCH — STAGE 1 STARTER
+
+Scope: only the long western building beneath the supplied coordinate pin.
+Maps: https://maps.app.goo.gl/Mm2rfAXdJpYhfdLk6
+Coordinates: -37.8242866, 145.0103873
+Google Maps image-based roof trace: length 56.11 m, width approximately 13.79 m,
+area 774.24 square metres. Rounded model envelope: 56.1 x 13.8 m.
+These are approximate roof measurements, not surveyed wall dimensions.
+Street View inspected: December 2025; five apparent above-ground levels,
+pending confirmation. Height 15 m is only a modelling placeholder.
+The local Y axis follows the building length; real north is NOT yet aligned.
+
+This file contains only the starter shell. It is not a finished building model.
+Next: verify floors/height, refine roof shape, add evidence-based rooftop obstacles,
+set true orientation, then use company panel specifications for solar layouts.
+No usable roof area, panel count, shading or generation has been calculated.
+Do not interpret Google imagery copyright year as its capture date.
+
+STAGE 02
+Five levels retained as provisional. Facade rhythm is illustrative, not a measured reconstruction.
+Roof parapet height 0.6 m assumed. Orange objects represent ten approximate obstacle/service
+envelopes from satellite interpretation. Their grouping, positions, dimensions and heights
+are provisional. No equipment is positively identified as a lift room, water tank or AC unit.
+No access routes or required setbacks have been established. Do not use this model for panel
+capacity, compliance, annual yield or shading conclusions yet. Presentation sun is arbitrary.
+Real north alignment and neighbouring buildings remain to be added for a sun study.
+
+STAGE 03 — CURRENT MODEL
+Supersedes the earlier five-level interpretation. Southern-end Street View shows five
+upper window rows plus ground, so this version uses six levels. Total 18 m height is
+still assumed from 3 m floor heights. Balconies are now truly recessed, with pale
+projecting fins, solid fascias plus glass railings, framed glazing, timber-toned
+ground screens and end-elevation windows. Seven equal facade bays, balcony depths,
+window sizes, ground layout and landscaping are modelling estimates. Courtyard facade
+and north end are inferred, not verified. Roof obstacle envelopes remain provisional,
+now coloured neutral grey. No solar layout or valid sun study is present.
+Street reference: southern viewpoint -37.8245223,145.010182, panorama 2iW2qa4Fza-uGbVSxmp6wg,
+December 2025; original facade viewpoint -37.8242544,145.0102264.

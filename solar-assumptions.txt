@@ -1,0 +1,14 @@
+STAGE 04 — CONCEPT PANEL LAYOUTS
+Panel: representative Trina Vertex S+ TSM-440NEG9R.28, 440 W, 1762 x 1134 x 30 mm.
+Source: https://static.trinasolar.com/sites/default/files/Vertex%20S%2B_NEG9R.28_EN_2024_Aus_B_web.pdf
+These are project assumptions, not an Australian-standard or approved installation.
+Roof edge reserve: 1 m. Equipment clearance: 0.5 m. Access reserves: 1.2 m.
+10 degree tilt toward local +Y; true azimuth and solar orientation still unverified.
+0.45 m projected gap between rows is a packing assumption, not a verified shading clearance.
+Coverage means projected panel footprint / usable area after reserves. Also report gross coverage.
+Usable area is calculated by rectangle union, avoiding double subtraction of overlapping exclusions.
+Equipment footprints/heights remain estimates. Access route origin and continuity to all equipment
+are unverified; reserved strips are interrupted by equipment exclusions. A verified access plan,
+structural/wind design, mounting/ballast design, electrical design, shading and site assessment
+are still required. This is not the proven maximum capacity of the real roof.
+No yearly generation, compliance, quote or electrical load coverage is claimed.

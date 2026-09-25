@@ -1,0 +1,16 @@
+SUN STUDY — PRELIMINARY GEOMETRY
+Coordinates -37.8242866, 145.0103873. Official Blender Sun Position calculation module
+downloaded from https://raw.githubusercontent.com/blender/blender-addons/main/sun_position/sun_calc.py
+The module is used directly; the add-on UI is not installed. Source retained with license header.
+Dates 21 December 2026 (UTC+11 AEDT), 21 June 2026 (UTC+10 AEST), 08:00–18:00 local time.
+Local building +Y estimated 7.7 degrees east of true north from north-up satellite trace.
+Ray tests sample 40 points on each of 90 panels. Percentages are sampled geometric panel
+area in direct-beam shade, NOT power loss or annual yield loss. Night values are null.
+Includes self-shading, provisional roof obstacles, parapets and five approximate neighbour
+blocks. Neighbour heights and footprints are unverified. Roof equipment heights, target
+height and north alignment are estimates. Trees and distant obstructions are omitted.
+Earlier decorative fins were trimmed to roof level in stage 04; their true roof projection
+needs verification. Access origin, continuity and code clearances remain unverified.
+Animation frames 1–15 summer and 16–30 winter, at 2 fps; keyframes do not need the module
+to play. Do not interpolate between the two seasonal sequences for analysis.
+This establishes a reproducible preliminary study, not a validated site solar assessment.
